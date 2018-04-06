@@ -21,7 +21,7 @@ function iLoveTheBeatles (num){
   var i = 0;
   do {
     arr.push('I love the Beatles');
-  } while (i < num && num < 15){
+  } while (num < 15){
     arr.push('I love the Beatles');
     i++; 
   }
