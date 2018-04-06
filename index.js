@@ -23,6 +23,7 @@ function iLoveTheBeatles (num){
     arr.push('I love the Beatles');
   } while (i < num && num < 15){
     arr.push('I love the Beatles');
+    i++; 
   }
-  return arr 
+  return arr
 }
