@@ -5,3 +5,7 @@ function theBeatlesPlay (array1, array2){
   }
   return arr
 }
+
+function johnLennonFacts (array){
+  return array
+}
